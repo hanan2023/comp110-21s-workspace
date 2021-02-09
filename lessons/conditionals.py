@@ -1,5 +1,9 @@
 
-a: int = 110
-b: int = a + 1
-c: bool = a == b - 1
-print(c)
+a > 9
+a < c
+c < 12
+
+a and b or c
+
+
+
